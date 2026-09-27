@@ -1,0 +1,4196 @@
+Buvo naudojama 100 sugeneruotu studentu.
+
+QUERY1
+100 records loaded succesfully
+Karl
+Leben
+3
+0.000000
+0
+English
+
+Alice
+Thornton
+4
+0.000000
+0
+English French
+
+Filter applied, 2 students found
+
+QUERY2
+Note
+2
+7.800000
+5
+Philosophy
+1
+Discrete mathematics
+9
+Set theory
+10
+Algebra
+10
+Set theory
+9
+English Spanish
+
+Jenny
+Darry
+2
+6.333333
+3
+Discrete mathematics
+10
+Algorithms
+4
+Algebra
+5
+English Russian Lithuanian
+
+Jim
+Kesting
+2
+8.333333
+3
+Operating systems
+9
+Computer programming
+10
+Operating systems
+6
+English Spanish French
+
+Adam
+Wood
+3
+6.400000
+5
+Algorithms
+5
+Discrete mathematics
+6
+Physics
+8
+Discrete mathematics
+8
+Physics
+5
+English Spanish Lithuanian
+
+Wilhelm
+Wozniak
+1
+8.750000
+4
+Algebra
+10
+Operating systems
+10
+Operating systems
+5
+Set theory
+10
+English Lithuanian
+
+Sarah
+Kesting
+1
+6.500000
+2
+Philosophy
+5
+Set theory
+8
+English
+
+Luke
+Madsen
+3
+9.250000
+4
+Philosophy
+5
+Set theory
+10
+Philosophy
+9
+Calculus
+9
+English
+
+Kim
+Sleight
+2
+6.500000
+4
+Operating systems
+5
+Algorithms
+6
+Physics
+10
+Algebra
+5
+English
+
+Adam
+Perry
+4
+7.250000
+4
+Calculus
+5
+Philosophy
+10
+Discrete mathematics
+5
+Algorithms
+9
+English Russian
+
+Eve
+Leben
+3
+7.250000
+4
+Operating systems
+3
+Algorithms
+9
+Calculus
+8
+Calculus
+9
+English French
+
+Angelina
+Stapleton
+4
+6.250000
+4
+Algorithms
+6
+Philosophy
+2
+Physics
+10
+Algorithms
+7
+English Spanish French
+
+Angelina
+Wozniak
+3
+9.333333
+3
+Physics
+9
+Computer programming
+9
+Computer networks
+10
+English Russian
+
+Eve
+Kesting
+2
+6.500000
+2
+Set theory
+8
+Discrete mathematics
+5
+English Russian Spanish
+
+Sole
+de Vito
+3
+9.500000
+2
+Philosophy
+10
+Calculus
+9
+English Russian French
+
+Sarah
+Damon
+4
+8.000000
+2
+Physics
+9
+Physics
+9
+English Russian French
+
+Eve
+Leben
+2
+7.600000
+5
+Algebra
+7
+Operating systems
+10
+Calculus
+9
+Algebra
+7
+Algorithms
+5
+English
+
+Wilhelm
+Damon
+3
+9.000000
+2
+Physics
+9
+Set theory
+9
+English Spanish
+
+Wilhelm
+Sleight
+4
+6.400000
+5
+Calculus
+4
+Operating systems
+10
+Computer programming
+10
+Philosophy
+2
+Computer networks
+6
+English Russian
+
+Arnold
+de Vito
+4
+6.500000
+2
+Physics
+7
+Computer networks
+6
+English
+
+Alice
+Note
+2
+5.500000
+2
+Set theory
+7
+Operating systems
+4
+English Lithuanian
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Betty
+Enderman
+2
+6.333333
+3
+Computer programming
+6
+Computer programming
+8
+Philosophy
+5
+English Russian
+
+Jessie
+Lockwood
+4
+9.000000
+2
+Computer programming
+9
+Operating systems
+9
+English French
+
+Helen
+Doe
+1
+7.800000
+5
+Algorithms
+7
+Computer networks
+10
+Operating systems
+8
+Set theory
+7
+Operating systems
+7
+English Spanish French
+
+Jenny
+de Vito
+2
+7.500000
+4
+Operating systems
+5
+Algebra
+10
+Calculus
+5
+Set theory
+10
+English Lithuanian
+
+Adam
+King
+2
+5.000000
+4
+Discrete mathematics
+3
+Set theory
+6
+Algorithms
+5
+Operating systems
+6
+English
+
+Melissa
+de Vito
+1
+8.000000
+3
+Algorithms
+9
+Calculus
+9
+Discrete mathematics
+6
+English Russian Lithuanian
+
+Robert
+Hat
+4
+7.666667
+3
+Calculus
+10
+Algebra
+8
+Discrete mathematics
+5
+English Spanish French
+
+Melissa
+Wood
+3
+7.000000
+4
+Discrete mathematics
+5
+Computer networks
+8
+Physics
+5
+Operating systems
+10
+English French Lithuanian
+
+Karl
+Hat
+4
+6.666667
+3
+Algorithms
+8
+Calculus
+5
+Algebra
+7
+English
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Alice
+Sleight
+1
+6.600000
+5
+Discrete mathematics
+8
+Algebra
+9
+Discrete mathematics
+4
+Philosophy
+9
+Philosophy
+3
+English French
+
+Matt
+Madsen
+4
+7.750000
+4
+Set theory
+5
+Algebra
+8
+Discrete mathematics
+10
+Set theory
+8
+English Spanish
+
+Jim
+Norman
+1
+9.000000
+2
+Algebra
+8
+Philosophy
+10
+English Spanish French
+
+Robert
+Druddle
+3
+7.000000
+3
+Operating systems
+10
+Computer programming
+6
+Discrete mathematics
+5
+English
+
+Jerry
+Gibson
+3
+7.333333
+3
+Algebra
+2
+Discrete mathematics
+10
+Computer networks
+10
+English Russian French
+
+Jerry
+de Vito
+1
+7.250000
+4
+Set theory
+8
+Physics
+10
+Calculus
+5
+Physics
+6
+English Spanish
+
+George
+Brightman
+1
+5.666667
+3
+Discrete mathematics
+2
+Computer programming
+9
+Physics
+6
+English
+
+Luke
+Brighthill
+4
+5.000000
+1
+Physics
+5
+English Russian Lithuanian
+
+Victor
+Smith
+1
+5.200000
+5
+Physics
+5
+Algorithms
+4
+Physics
+6
+Operating systems
+3
+Algebra
+8
+English Lithuanian
+
+George
+Thornton
+1
+7.000000
+1
+Philosophy
+7
+English Spanish
+
+Debora
+Thornton
+1
+7.333333
+3
+Computer programming
+6
+Computer programming
+7
+Set theory
+9
+English Russian
+
+Jessie
+Wood
+3
+6.000000
+3
+Computer programming
+9
+Calculus
+4
+Operating systems
+5
+English Russian Spanish
+
+Robert
+Note
+2
+8.250000
+4
+Discrete mathematics
+6
+Computer networks
+8
+Set theory
+9
+Physics
+10
+English Russian Lithuanian
+
+Jenny
+Wozniak
+3
+5.400000
+5
+Set theory
+5
+Calculus
+5
+Calculus
+10
+Calculus
+6
+Algorithms
+1
+English Spanish French
+
+Jamie
+Hudson
+2
+8.500000
+2
+Set theory
+10
+Operating systems
+7
+English
+
+Alex
+Stapleton
+3
+6.250000
+4
+Computer programming
+6
+Computer programming
+8
+Algebra
+4
+Physics
+7
+English Spanish
+
+Kylie
+Madsen
+4
+6.250000
+4
+Computer programming
+9
+Operating systems
+5
+Computer networks
+8
+Physics
+3
+English Spanish
+
+George
+Sheen
+3
+6.400000
+5
+Discrete mathematics
+9
+Computer programming
+2
+Philosophy
+6
+Computer programming
+5
+Operating systems
+10
+English Russian French
+
+Jane
+Doe
+1
+8.500000
+4
+Operating systems
+6
+Algebra
+10
+Discrete mathematics
+10
+Physics
+8
+English Lithuanian
+
+Jamie
+Damon
+4
+9.000000
+1
+Computer networks
+9
+English Spanish French Lithuanian
+
+Debora
+Darry
+3
+7.000000
+3
+Set theory
+10
+Operating systems
+5
+Set theory
+6
+English Lithuanian
+
+Victor
+Damon
+3
+9.000000
+1
+Discrete mathematics
+10
+English Spanish
+
+Kylie
+Quarry
+2
+8.666667
+3
+Discrete mathematics
+6
+Physics
+10
+Physics
+10
+English
+
+Charlie
+Kesting
+3
+8.000000
+7
+Computer networks
+2
+Algorithms
+10
+Calculus
+9
+Computer programming
+10
+Algebra
+9
+Algebra
+8
+Computer programming
+8
+English
+
+Julie
+Leben
+3
+6.000000
+2
+Calculus
+6
+Computer networks
+8
+English Russian
+
+Kim
+Thornton
+1
+7.000000
+2
+Algebra
+6
+Philosophy
+8
+English Russian
+
+Eve
+de Vito
+1
+6.666667
+3
+Algorithms
+9
+Physics
+5
+Algorithms
+6
+English French Lithuanian
+
+Melissa
+Quarry
+1
+8.250000
+4
+Algebra
+7
+Physics
+10
+Operating systems
+10
+Philosophy
+6
+English Spanish
+
+Robert
+Lockwood
+3
+6.000000
+3
+Computer programming
+8
+Algorithms
+7
+Computer programming
+3
+English Spanish
+
+Charlie
+Wozniak
+2
+8.250000
+4
+Operating systems
+8
+Discrete mathematics
+6
+Discrete mathematics
+10
+Algebra
+9
+English Russian French
+
+Betty
+Norman
+2
+7.250000
+4
+Algorithms
+8
+Physics
+6
+Algorithms
+7
+Computer programming
+8
+English Spanish
+
+Alex
+Enderman
+4
+5.833333
+6
+Discrete mathematics
+7
+Philosophy
+2
+Philosophy
+1
+Operating systems
+10
+Computer networks
+10
+Operating systems
+5
+English
+
+Sarah
+Brightman
+1
+7.800000
+5
+Algorithms
+8
+Computer networks
+8
+Calculus
+8
+Algebra
+6
+Operating systems
+9
+English Spanish Lithuanian
+
+Angelina
+Wozniak
+4
+5.000000
+4
+Physics
+8
+Philosophy
+6
+Physics
+1
+Philosophy
+5
+English
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Wilhelm
+Madsen
+3
+8.250000
+4
+Algebra
+8
+Set theory
+10
+Discrete mathematics
+5
+Discrete mathematics
+10
+English French Lithuanian
+
+Sole
+Darry
+3
+5.833333
+6
+Computer networks
+8
+Discrete mathematics
+7
+Calculus
+4
+Operating systems
+6
+Physics
+7
+Physics
+3
+English French
+
+Jerry
+Darry
+3
+5.333333
+3
+Computer programming
+5
+Set theory
+6
+Operating systems
+5
+English Russian Spanish
+
+Sarah
+Leben
+1
+7.750000
+4
+Algorithms
+7
+Philosophy
+8
+Computer programming
+9
+Philosophy
+7
+English Spanish
+
+Matt
+de Vito
+3
+5.250000
+4
+Algebra
+8
+Philosophy
+5
+Calculus
+5
+Philosophy
+3
+English
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Victor
+Brighthill
+4
+7.000000
+2
+Operating systems
+8
+Discrete mathematics
+6
+English Spanish Lithuanian
+
+Filter applied, 86 students found
+
+QUERY3
+100 records loaded succesfully
+Karl
+Leben
+3
+0.000000
+0
+English
+
+Filter applied, 1 students found
+
+QUERY4
+100 records loaded succesfully
+Eve
+Stapleton
+2
+7.333333
+3
+Computer programming
+7
+Discrete mathematics
+7
+Operating systems
+8
+English Spanish French
+
+Victor
+Wood
+3
+5.714286
+7
+Algorithms
+3
+Discrete mathematics
+9
+Physics
+5
+Discrete mathematics
+5
+Philosophy
+6
+Computer networks
+5
+Discrete mathematics
+7
+English
+
+Karl
+Lockwood
+3
+7.000000
+1
+Set theory
+7
+English
+
+Betty
+Darry
+3
+6.250000
+4
+Philosophy
+5
+Computer networks
+5
+Physics
+10
+Computer programming
+5
+English Spanish
+
+Eve
+Note
+2
+7.800000
+5
+Philosophy
+1
+Discrete mathematics
+9
+Set theory
+10
+Algebra
+10
+Set theory
+9
+English Spanish
+
+Jenny
+Darry
+2
+6.333333
+3
+Discrete mathematics
+10
+Algorithms
+4
+Algebra
+5
+English Russian Lithuanian
+
+Jim
+Kesting
+2
+8.333333
+3
+Operating systems
+9
+Computer programming
+10
+Operating systems
+6
+English Spanish French
+
+Adam
+Wood
+3
+6.400000
+5
+Algorithms
+5
+Discrete mathematics
+6
+Physics
+8
+Discrete mathematics
+8
+Physics
+5
+English Spanish Lithuanian
+
+Luke
+Madsen
+3
+9.250000
+4
+Philosophy
+5
+Set theory
+10
+Philosophy
+9
+Calculus
+9
+English
+
+Kim
+Sleight
+2
+6.500000
+4
+Operating systems
+5
+Algorithms
+6
+Physics
+10
+Algebra
+5
+English
+
+Eve
+Leben
+3
+7.250000
+4
+Operating systems
+3
+Algorithms
+9
+Calculus
+8
+Calculus
+9
+English French
+
+Karl
+Sadman
+2
+4.500000
+2
+Operating systems
+8
+Set theory
+1
+English
+
+Angelina
+Wozniak
+3
+9.333333
+3
+Physics
+9
+Computer programming
+9
+Computer networks
+10
+English Russian
+
+Eve
+Kesting
+2
+6.500000
+2
+Set theory
+8
+Discrete mathematics
+5
+English Russian Spanish
+
+Sole
+de Vito
+3
+9.500000
+2
+Philosophy
+10
+Calculus
+9
+English Russian French
+
+Eve
+Leben
+2
+7.600000
+5
+Algebra
+7
+Operating systems
+10
+Calculus
+9
+Algebra
+7
+Algorithms
+5
+English
+
+Wilhelm
+Damon
+3
+9.000000
+2
+Physics
+9
+Set theory
+9
+English Spanish
+
+Jane
+de Vito
+3
+4.500000
+2
+Discrete mathematics
+6
+Calculus
+5
+English Russian French
+
+Alice
+Note
+2
+5.500000
+2
+Set theory
+7
+Operating systems
+4
+English Lithuanian
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Betty
+Enderman
+2
+6.333333
+3
+Computer programming
+6
+Computer programming
+8
+Philosophy
+5
+English Russian
+
+Jenny
+de Vito
+2
+7.500000
+4
+Operating systems
+5
+Algebra
+10
+Calculus
+5
+Set theory
+10
+English Lithuanian
+
+Adam
+King
+2
+5.000000
+4
+Discrete mathematics
+3
+Set theory
+6
+Algorithms
+5
+Operating systems
+6
+English
+
+Robert
+Thornton
+2
+4.000000
+1
+Computer networks
+4
+English Russian
+
+Melissa
+Wood
+3
+7.000000
+4
+Discrete mathematics
+5
+Computer networks
+8
+Physics
+5
+Operating systems
+10
+English French Lithuanian
+
+Karl
+Leben
+3
+0.000000
+0
+English
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Kim
+Gibbs
+3
+4.400000
+5
+Set theory
+1
+Algorithms
+7
+Set theory
+1
+Calculus
+6
+Algorithms
+7
+English Russian
+
+Robert
+Druddle
+3
+7.000000
+3
+Operating systems
+10
+Computer programming
+6
+Discrete mathematics
+5
+English
+
+Jerry
+Gibson
+3
+7.333333
+3
+Algebra
+2
+Discrete mathematics
+10
+Computer networks
+10
+English Russian French
+
+Jessie
+Wood
+3
+6.000000
+3
+Computer programming
+9
+Calculus
+4
+Operating systems
+5
+English Russian Spanish
+
+Robert
+Note
+2
+8.250000
+4
+Discrete mathematics
+6
+Computer networks
+8
+Set theory
+9
+Physics
+10
+English Russian Lithuanian
+
+Jenny
+Wozniak
+3
+5.400000
+5
+Set theory
+5
+Calculus
+5
+Calculus
+10
+Calculus
+6
+Algorithms
+1
+English Spanish French
+
+Jamie
+Hudson
+2
+8.500000
+2
+Set theory
+10
+Operating systems
+7
+English
+
+Alex
+Stapleton
+3
+6.250000
+4
+Computer programming
+6
+Computer programming
+8
+Algebra
+4
+Physics
+7
+English Spanish
+
+George
+Sheen
+3
+6.400000
+5
+Discrete mathematics
+9
+Computer programming
+2
+Philosophy
+6
+Computer programming
+5
+Operating systems
+10
+English Russian French
+
+Debora
+Darry
+3
+7.000000
+3
+Set theory
+10
+Operating systems
+5
+Set theory
+6
+English Lithuanian
+
+Victor
+Damon
+3
+9.000000
+1
+Discrete mathematics
+10
+English Spanish
+
+Kylie
+Quarry
+2
+8.666667
+3
+Discrete mathematics
+6
+Physics
+10
+Physics
+10
+English
+
+Charlie
+Kesting
+3
+8.000000
+7
+Computer networks
+2
+Algorithms
+10
+Calculus
+9
+Computer programming
+10
+Algebra
+9
+Algebra
+8
+Computer programming
+8
+English
+
+Julie
+Leben
+3
+6.000000
+2
+Calculus
+6
+Computer networks
+8
+English Russian
+
+Debora
+Kesting
+2
+4.750000
+4
+Computer programming
+1
+Calculus
+2
+Calculus
+10
+Discrete mathematics
+6
+English Russian
+
+Robert
+Lockwood
+3
+6.000000
+3
+Computer programming
+8
+Algorithms
+7
+Computer programming
+3
+English Spanish
+
+Charlie
+Wozniak
+2
+8.250000
+4
+Operating systems
+8
+Discrete mathematics
+6
+Discrete mathematics
+10
+Algebra
+9
+English Russian French
+
+Betty
+Norman
+2
+7.250000
+4
+Algorithms
+8
+Physics
+6
+Algorithms
+7
+Computer programming
+8
+English Spanish
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Wilhelm
+Madsen
+3
+8.250000
+4
+Algebra
+8
+Set theory
+10
+Discrete mathematics
+5
+Discrete mathematics
+10
+English French Lithuanian
+
+Sole
+Darry
+3
+5.833333
+6
+Computer networks
+8
+Discrete mathematics
+7
+Calculus
+4
+Operating systems
+6
+Physics
+7
+Physics
+3
+English French
+
+Jerry
+Darry
+3
+5.333333
+3
+Computer programming
+5
+Set theory
+6
+Operating systems
+5
+English Russian Spanish
+
+Matt
+de Vito
+3
+5.250000
+4
+Algebra
+8
+Philosophy
+5
+Calculus
+5
+Philosophy
+3
+English
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Filter applied, 51 students found
+
+QUERY5
+100 records loaded succesfully
+Victor
+Wood
+3
+5.714286
+7
+Algorithms
+3
+Discrete mathematics
+9
+Physics
+5
+Discrete mathematics
+5
+Philosophy
+6
+Computer networks
+5
+Discrete mathematics
+7
+English
+
+Charlie
+Doe
+4
+6.714286
+7
+Operating systems
+1
+Algorithms
+7
+Algorithms
+10
+Calculus
+10
+Discrete mathematics
+6
+Computer networks
+6
+Algorithms
+7
+English French
+
+Julie
+Hat
+1
+7.500000
+2
+Computer programming
+7
+Physics
+8
+English
+
+Sole
+Hat
+4
+4.800000
+5
+Discrete mathematics
+5
+Discrete mathematics
+7
+Operating systems
+8
+Philosophy
+2
+Philosophy
+2
+English French
+
+Angelina
+Wozniak
+3
+9.333333
+3
+Physics
+9
+Computer programming
+9
+Computer networks
+10
+English Russian
+
+Wilhelm
+Damon
+3
+9.000000
+2
+Physics
+9
+Set theory
+9
+English Spanish
+
+Alice
+Note
+2
+5.500000
+2
+Set theory
+7
+Operating systems
+4
+English Lithuanian
+
+Helen
+Doe
+1
+7.800000
+5
+Algorithms
+7
+Computer networks
+10
+Operating systems
+8
+Set theory
+7
+Operating systems
+7
+English Spanish French
+
+Robert
+Hat
+4
+7.666667
+3
+Calculus
+10
+Algebra
+8
+Discrete mathematics
+5
+English Spanish French
+
+Melissa
+Wood
+3
+7.000000
+4
+Discrete mathematics
+5
+Computer networks
+8
+Physics
+5
+Operating systems
+10
+English French Lithuanian
+
+Karl
+Hat
+4
+6.666667
+3
+Algorithms
+8
+Calculus
+5
+Algebra
+7
+English
+
+Angelina
+Gibbs
+4
+4.500000
+2
+Calculus
+4
+Computer programming
+5
+English
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Victor
+Smith
+1
+5.200000
+5
+Physics
+5
+Algorithms
+4
+Physics
+6
+Operating systems
+3
+Algebra
+8
+English Lithuanian
+
+Robert
+Perry
+4
+4.400000
+5
+Philosophy
+5
+Computer programming
+2
+Computer programming
+5
+Physics
+8
+Algorithms
+2
+English Russian Spanish
+
+Jessie
+Wood
+3
+6.000000
+3
+Computer programming
+9
+Calculus
+4
+Operating systems
+5
+English Russian Spanish
+
+Robert
+Note
+2
+8.250000
+4
+Discrete mathematics
+6
+Computer networks
+8
+Set theory
+9
+Physics
+10
+English Russian Lithuanian
+
+George
+Sheen
+3
+6.400000
+5
+Discrete mathematics
+9
+Computer programming
+2
+Philosophy
+6
+Computer programming
+5
+Operating systems
+10
+English Russian French
+
+Jane
+Doe
+1
+8.500000
+4
+Operating systems
+6
+Algebra
+10
+Discrete mathematics
+10
+Physics
+8
+English Lithuanian
+
+Debora
+Darry
+3
+7.000000
+3
+Set theory
+10
+Operating systems
+5
+Set theory
+6
+English Lithuanian
+
+Victor
+Damon
+3
+9.000000
+1
+Discrete mathematics
+10
+English Spanish
+
+Melissa
+Quarry
+1
+8.250000
+4
+Algebra
+7
+Physics
+10
+Operating systems
+10
+Philosophy
+6
+English Spanish
+
+Angelina
+Wozniak
+4
+5.000000
+4
+Physics
+8
+Philosophy
+6
+Physics
+1
+Philosophy
+5
+English
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Wilhelm
+Madsen
+3
+8.250000
+4
+Algebra
+8
+Set theory
+10
+Discrete mathematics
+5
+Discrete mathematics
+10
+English French Lithuanian
+
+QUERY6
+100 records loaded succesfully
+Eve
+Stapleton
+2
+7.333333
+3
+Computer programming
+7
+Discrete mathematics
+7
+Operating systems
+8
+English Spanish French
+
+Karl
+Lockwood
+3
+7.000000
+1
+Set theory
+7
+English
+
+Kylie
+Hudson
+1
+10.000000
+1
+Computer networks
+10
+English
+
+Jessie
+Gibson
+4
+7.800000
+5
+Computer programming
+8
+Physics
+8
+Set theory
+10
+Algorithms
+7
+Philosophy
+6
+English Lithuanian
+
+Betty
+Darry
+3
+6.250000
+4
+Philosophy
+5
+Computer networks
+5
+Physics
+10
+Computer programming
+5
+English Spanish
+
+Julie
+Hat
+1
+7.500000
+2
+Computer programming
+7
+Physics
+8
+English
+
+Jamie
+Sheen
+4
+7.000000
+3
+Set theory
+9
+Calculus
+5
+Discrete mathematics
+7
+English French
+
+Jim
+Kesting
+2
+8.333333
+3
+Operating systems
+9
+Computer programming
+10
+Operating systems
+6
+English Spanish French
+
+Adam
+Wood
+3
+6.400000
+5
+Algorithms
+5
+Discrete mathematics
+6
+Physics
+8
+Discrete mathematics
+8
+Physics
+5
+English Spanish Lithuanian
+
+Wilhelm
+Wozniak
+1
+8.750000
+4
+Algebra
+10
+Operating systems
+10
+Operating systems
+5
+Set theory
+10
+English Lithuanian
+
+Sarah
+Kesting
+1
+6.500000
+2
+Philosophy
+5
+Set theory
+8
+English
+
+Luke
+Madsen
+3
+9.250000
+4
+Philosophy
+5
+Set theory
+10
+Philosophy
+9
+Calculus
+9
+English
+
+Kim
+Sleight
+2
+6.500000
+4
+Operating systems
+5
+Algorithms
+6
+Physics
+10
+Algebra
+5
+English
+
+Adam
+Perry
+4
+7.250000
+4
+Calculus
+5
+Philosophy
+10
+Discrete mathematics
+5
+Algorithms
+9
+English Russian
+
+Angelina
+Wozniak
+3
+9.333333
+3
+Physics
+9
+Computer programming
+9
+Computer networks
+10
+English Russian
+
+Eve
+Kesting
+2
+6.500000
+2
+Set theory
+8
+Discrete mathematics
+5
+English Russian Spanish
+
+Sole
+de Vito
+3
+9.500000
+2
+Philosophy
+10
+Calculus
+9
+English Russian French
+
+Sarah
+Damon
+4
+8.000000
+2
+Physics
+9
+Physics
+9
+English Russian French
+
+Eve
+Leben
+2
+7.600000
+5
+Algebra
+7
+Operating systems
+10
+Calculus
+9
+Algebra
+7
+Algorithms
+5
+English
+
+Wilhelm
+Damon
+3
+9.000000
+2
+Physics
+9
+Set theory
+9
+English Spanish
+
+Jane
+de Vito
+3
+4.500000
+2
+Discrete mathematics
+6
+Calculus
+5
+English Russian French
+
+Arnold
+de Vito
+4
+6.500000
+2
+Physics
+7
+Computer networks
+6
+English
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Betty
+Enderman
+2
+6.333333
+3
+Computer programming
+6
+Computer programming
+8
+Philosophy
+5
+English Russian
+
+Jessie
+Lockwood
+4
+9.000000
+2
+Computer programming
+9
+Operating systems
+9
+English French
+
+Helen
+Doe
+1
+7.800000
+5
+Algorithms
+7
+Computer networks
+10
+Operating systems
+8
+Set theory
+7
+Operating systems
+7
+English Spanish French
+
+Jenny
+de Vito
+2
+7.500000
+4
+Operating systems
+5
+Algebra
+10
+Calculus
+5
+Set theory
+10
+English Lithuanian
+
+Melissa
+de Vito
+1
+8.000000
+3
+Algorithms
+9
+Calculus
+9
+Discrete mathematics
+6
+English Russian Lithuanian
+
+Robert
+Hat
+4
+7.666667
+3
+Calculus
+10
+Algebra
+8
+Discrete mathematics
+5
+English Spanish French
+
+Melissa
+Wood
+3
+7.000000
+4
+Discrete mathematics
+5
+Computer networks
+8
+Physics
+5
+Operating systems
+10
+English French Lithuanian
+
+Karl
+Leben
+3
+0.000000
+0
+English
+
+Karl
+Hat
+4
+6.666667
+3
+Algorithms
+8
+Calculus
+5
+Algebra
+7
+English
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Matt
+Madsen
+4
+7.750000
+4
+Set theory
+5
+Algebra
+8
+Discrete mathematics
+10
+Set theory
+8
+English Spanish
+
+Jim
+Norman
+1
+9.000000
+2
+Algebra
+8
+Philosophy
+10
+English Spanish French
+
+Robert
+Druddle
+3
+7.000000
+3
+Operating systems
+10
+Computer programming
+6
+Discrete mathematics
+5
+English
+
+Jerry
+de Vito
+1
+7.250000
+4
+Set theory
+8
+Physics
+10
+Calculus
+5
+Physics
+6
+English Spanish
+
+Luke
+Brighthill
+4
+5.000000
+1
+Physics
+5
+English Russian Lithuanian
+
+George
+Thornton
+1
+7.000000
+1
+Philosophy
+7
+English Spanish
+
+Debora
+Thornton
+1
+7.333333
+3
+Computer programming
+6
+Computer programming
+7
+Set theory
+9
+English Russian
+
+Robert
+Note
+2
+8.250000
+4
+Discrete mathematics
+6
+Computer networks
+8
+Set theory
+9
+Physics
+10
+English Russian Lithuanian
+
+Jamie
+Hudson
+2
+8.500000
+2
+Set theory
+10
+Operating systems
+7
+English
+
+Jane
+Doe
+1
+8.500000
+4
+Operating systems
+6
+Algebra
+10
+Discrete mathematics
+10
+Physics
+8
+English Lithuanian
+
+Jamie
+Damon
+4
+9.000000
+1
+Computer networks
+9
+English Spanish French Lithuanian
+
+Debora
+Darry
+3
+7.000000
+3
+Set theory
+10
+Operating systems
+5
+Set theory
+6
+English Lithuanian
+
+Alice
+Thornton
+4
+0.000000
+0
+English French
+
+Victor
+Damon
+3
+9.000000
+1
+Discrete mathematics
+10
+English Spanish
+
+Kylie
+Quarry
+2
+8.666667
+3
+Discrete mathematics
+6
+Physics
+10
+Physics
+10
+English
+
+Julie
+Leben
+3
+6.000000
+2
+Calculus
+6
+Computer networks
+8
+English Russian
+
+Kim
+Thornton
+1
+7.000000
+2
+Algebra
+6
+Philosophy
+8
+English Russian
+
+Adam
+Leben
+4
+4.000000
+2
+Operating systems
+5
+Calculus
+5
+English Spanish
+
+Eve
+de Vito
+1
+6.666667
+3
+Algorithms
+9
+Physics
+5
+Algorithms
+6
+English French Lithuanian
+
+Melissa
+Quarry
+1
+8.250000
+4
+Algebra
+7
+Physics
+10
+Operating systems
+10
+Philosophy
+6
+English Spanish
+
+Charlie
+Wozniak
+2
+8.250000
+4
+Operating systems
+8
+Discrete mathematics
+6
+Discrete mathematics
+10
+Algebra
+9
+English Russian French
+
+Betty
+Norman
+2
+7.250000
+4
+Algorithms
+8
+Physics
+6
+Algorithms
+7
+Computer programming
+8
+English Spanish
+
+Sarah
+Brightman
+1
+7.800000
+5
+Algorithms
+8
+Computer networks
+8
+Calculus
+8
+Algebra
+6
+Operating systems
+9
+English Spanish Lithuanian
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Wilhelm
+Madsen
+3
+8.250000
+4
+Algebra
+8
+Set theory
+10
+Discrete mathematics
+5
+Discrete mathematics
+10
+English French Lithuanian
+
+Jerry
+Darry
+3
+5.333333
+3
+Computer programming
+5
+Set theory
+6
+Operating systems
+5
+English Russian Spanish
+
+Sarah
+Leben
+1
+7.750000
+4
+Algorithms
+7
+Philosophy
+8
+Computer programming
+9
+Philosophy
+7
+English Spanish
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Victor
+Brighthill
+4
+7.000000
+2
+Operating systems
+8
+Discrete mathematics
+6
+English Spanish Lithuanian
+
+Filter applied, 62 students found
+
+QUERY7
+100 records loaded succesfully
+Eve
+Stapleton
+2
+7.333333
+3
+Computer programming
+7
+Discrete mathematics
+7
+Operating systems
+8
+English Spanish French
+
+Karl
+Lockwood
+3
+7.000000
+1
+Set theory
+7
+English
+
+Julie
+Hat
+1
+7.500000
+2
+Computer programming
+7
+Physics
+8
+English
+
+Sarah
+Damon
+4
+8.000000
+2
+Physics
+9
+Physics
+9
+English Russian French
+
+Wilhelm
+Damon
+3
+9.000000
+2
+Physics
+9
+Set theory
+9
+English Spanish
+
+Arnold
+de Vito
+4
+6.500000
+2
+Physics
+7
+Computer networks
+6
+English
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Jessie
+Lockwood
+4
+9.000000
+2
+Computer programming
+9
+Operating systems
+9
+English French
+
+Melissa
+de Vito
+1
+8.000000
+3
+Algorithms
+9
+Calculus
+9
+Discrete mathematics
+6
+English Russian Lithuanian
+
+Karl
+Leben
+3
+0.000000
+0
+English
+
+George
+Thornton
+1
+7.000000
+1
+Philosophy
+7
+English Spanish
+
+Debora
+Thornton
+1
+7.333333
+3
+Computer programming
+6
+Computer programming
+7
+Set theory
+9
+English Russian
+
+Jamie
+Damon
+4
+9.000000
+1
+Computer networks
+9
+English Spanish French Lithuanian
+
+Alice
+Thornton
+4
+0.000000
+0
+English French
+
+Julie
+Leben
+3
+6.000000
+2
+Calculus
+6
+Computer networks
+8
+English Russian
+
+Kim
+Thornton
+1
+7.000000
+2
+Algebra
+6
+Philosophy
+8
+English Russian
+
+Betty
+Norman
+2
+7.250000
+4
+Algorithms
+8
+Physics
+6
+Algorithms
+7
+Computer programming
+8
+English Spanish
+
+Sarah
+Brightman
+1
+7.800000
+5
+Algorithms
+8
+Computer networks
+8
+Calculus
+8
+Algebra
+6
+Operating systems
+9
+English Spanish Lithuanian
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Sarah
+Leben
+1
+7.750000
+4
+Algorithms
+7
+Philosophy
+8
+Computer programming
+9
+Philosophy
+7
+English Spanish
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Victor
+Brighthill
+4
+7.000000
+2
+Operating systems
+8
+Discrete mathematics
+6
+English Spanish Lithuanian
+
+Filter applied, 22 students found
+
+QUERY8
+100 records loaded succesfully
+Eve
+Leben
+2
+7.600000
+5
+Algebra
+7
+Operating systems
+10
+Calculus
+9
+Algebra
+7
+Algorithms
+5
+English
+
+Jenny
+de Vito
+2
+7.500000
+4
+Operating systems
+5
+Algebra
+10
+Calculus
+5
+Set theory
+10
+English Lithuanian
+
+Robert
+Hat
+4
+7.666667
+3
+Calculus
+10
+Algebra
+8
+Discrete mathematics
+5
+English Spanish French
+
+Karl
+Hat
+4
+6.666667
+3
+Algorithms
+8
+Calculus
+5
+Algebra
+7
+English
+
+Charlie
+Kesting
+3
+8.000000
+7
+Computer networks
+2
+Algorithms
+10
+Calculus
+9
+Computer programming
+10
+Algebra
+9
+Algebra
+8
+Computer programming
+8
+English
+
+Sarah
+Brightman
+1
+7.800000
+5
+Algorithms
+8
+Computer networks
+8
+Calculus
+8
+Algebra
+6
+Operating systems
+9
+English Spanish Lithuanian
+
+Matt
+de Vito
+3
+5.250000
+4
+Algebra
+8
+Philosophy
+5
+Calculus
+5
+Philosophy
+3
+English
+
+Filter applied, 7 students found
+
+QUERY9
+100 records loaded succesfully
+Victor
+Wood
+3
+5.714286
+7
+Algorithms
+3
+Discrete mathematics
+9
+Physics
+5
+Discrete mathematics
+5
+Philosophy
+6
+Computer networks
+5
+Discrete mathematics
+7
+English
+
+Jessie
+Gibson
+4
+7.800000
+5
+Computer programming
+8
+Physics
+8
+Set theory
+10
+Algorithms
+7
+Philosophy
+6
+English Lithuanian
+
+Betty
+Darry
+3
+6.250000
+4
+Philosophy
+5
+Computer networks
+5
+Physics
+10
+Computer programming
+5
+English Spanish
+
+Alex
+Quarry
+1
+5.333333
+3
+Set theory
+2
+Operating systems
+5
+Philosophy
+9
+English Russian Lithuanian
+
+Sarah
+Kesting
+1
+6.500000
+2
+Philosophy
+5
+Set theory
+8
+English
+
+Luke
+Madsen
+3
+9.250000
+4
+Philosophy
+5
+Set theory
+10
+Philosophy
+9
+Calculus
+9
+English
+
+Adam
+Perry
+4
+7.250000
+4
+Calculus
+5
+Philosophy
+10
+Discrete mathematics
+5
+Algorithms
+9
+English Russian
+
+Sole
+de Vito
+3
+9.500000
+2
+Philosophy
+10
+Calculus
+9
+English Russian French
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Betty
+Enderman
+2
+6.333333
+3
+Computer programming
+6
+Computer programming
+8
+Philosophy
+5
+English Russian
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Alice
+Sleight
+1
+6.600000
+5
+Discrete mathematics
+8
+Algebra
+9
+Discrete mathematics
+4
+Philosophy
+9
+Philosophy
+3
+English French
+
+Jim
+Norman
+1
+9.000000
+2
+Algebra
+8
+Philosophy
+10
+English Spanish French
+
+Robert
+Perry
+4
+4.400000
+5
+Philosophy
+5
+Computer programming
+2
+Computer programming
+5
+Physics
+8
+Algorithms
+2
+English Russian Spanish
+
+George
+Thornton
+1
+7.000000
+1
+Philosophy
+7
+English Spanish
+
+George
+Sheen
+3
+6.400000
+5
+Discrete mathematics
+9
+Computer programming
+2
+Philosophy
+6
+Computer programming
+5
+Operating systems
+10
+English Russian French
+
+Kim
+Thornton
+1
+7.000000
+2
+Algebra
+6
+Philosophy
+8
+English Russian
+
+Melissa
+Quarry
+1
+8.250000
+4
+Algebra
+7
+Physics
+10
+Operating systems
+10
+Philosophy
+6
+English Spanish
+
+Angelina
+Wozniak
+4
+5.000000
+4
+Physics
+8
+Philosophy
+6
+Physics
+1
+Philosophy
+5
+English
+
+Sarah
+Leben
+1
+7.750000
+4
+Algorithms
+7
+Philosophy
+8
+Computer programming
+9
+Philosophy
+7
+English Spanish
+
+Matt
+de Vito
+3
+5.250000
+4
+Algebra
+8
+Philosophy
+5
+Calculus
+5
+Philosophy
+3
+English
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Filter applied, 22 students found
+
+QUERY10
+100 records loaded succesfully
+Victor
+Wood
+3
+5.714286
+7
+Algorithms
+3
+Discrete mathematics
+9
+Physics
+5
+Discrete mathematics
+5
+Philosophy
+6
+Computer networks
+5
+Discrete mathematics
+7
+English
+
+Jessie
+Gibson
+4
+7.800000
+5
+Computer programming
+8
+Physics
+8
+Set theory
+10
+Algorithms
+7
+Philosophy
+6
+English Lithuanian
+
+Betty
+Darry
+3
+6.250000
+4
+Philosophy
+5
+Computer networks
+5
+Physics
+10
+Computer programming
+5
+English Spanish
+
+Alex
+Quarry
+1
+5.333333
+3
+Set theory
+2
+Operating systems
+5
+Philosophy
+9
+English Russian Lithuanian
+
+Sarah
+Kesting
+1
+6.500000
+2
+Philosophy
+5
+Set theory
+8
+English
+
+Luke
+Madsen
+3
+9.250000
+4
+Philosophy
+5
+Set theory
+10
+Philosophy
+9
+Calculus
+9
+English
+
+Adam
+Perry
+4
+7.250000
+4
+Calculus
+5
+Philosophy
+10
+Discrete mathematics
+5
+Algorithms
+9
+English Russian
+
+Sole
+de Vito
+3
+9.500000
+2
+Philosophy
+10
+Calculus
+9
+English Russian French
+
+Victor
+Quarry
+3
+6.500000
+2
+Discrete mathematics
+6
+Philosophy
+7
+English
+
+Betty
+Enderman
+2
+6.333333
+3
+Computer programming
+6
+Computer programming
+8
+Philosophy
+5
+English Russian
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Alice
+Sleight
+1
+6.600000
+5
+Discrete mathematics
+8
+Algebra
+9
+Discrete mathematics
+4
+Philosophy
+9
+Philosophy
+3
+English French
+
+Jim
+Norman
+1
+9.000000
+2
+Algebra
+8
+Philosophy
+10
+English Spanish French
+
+Robert
+Perry
+4
+4.400000
+5
+Philosophy
+5
+Computer programming
+2
+Computer programming
+5
+Physics
+8
+Algorithms
+2
+English Russian Spanish
+
+George
+Thornton
+1
+7.000000
+1
+Philosophy
+7
+English Spanish
+
+George
+Sheen
+3
+6.400000
+5
+Discrete mathematics
+9
+Computer programming
+2
+Philosophy
+6
+Computer programming
+5
+Operating systems
+10
+English Russian French
+
+Kim
+Thornton
+1
+7.000000
+2
+Algebra
+6
+Philosophy
+8
+English Russian
+
+Melissa
+Quarry
+1
+8.250000
+4
+Algebra
+7
+Physics
+10
+Operating systems
+10
+Philosophy
+6
+English Spanish
+
+Angelina
+Wozniak
+4
+5.000000
+4
+Physics
+8
+Philosophy
+6
+Physics
+1
+Philosophy
+5
+English
+
+Sarah
+Leben
+1
+7.750000
+4
+Algorithms
+7
+Philosophy
+8
+Computer programming
+9
+Philosophy
+7
+English Spanish
+
+Matt
+de Vito
+3
+5.250000
+4
+Algebra
+8
+Philosophy
+5
+Calculus
+5
+Philosophy
+3
+English
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Filter applied, 22 students found
+PS C:\Projects\PP 1> gcc query10.c
+PS C:\Projects\PP 1> ./a.exe      
+100 records loaded succesfully
+Jessie
+Gibson
+4
+7.800000
+5
+Computer programming
+8
+Physics
+8
+Set theory
+10
+Algorithms
+7
+Philosophy
+6
+English Lithuanian
+
+Alex
+Quarry
+1
+5.333333
+3
+Set theory
+2
+Operating systems
+5
+Philosophy
+9
+English Russian Lithuanian
+
+Jenny
+Darry
+2
+6.333333
+3
+Discrete mathematics
+10
+Algorithms
+4
+Algebra
+5
+English Russian Lithuanian
+
+Adam
+Wood
+3
+6.400000
+5
+Algorithms
+5
+Discrete mathematics
+6
+Physics
+8
+Discrete mathematics
+8
+Physics
+5
+English Spanish Lithuanian
+
+Wilhelm
+Wozniak
+1
+8.750000
+4
+Algebra
+10
+Operating systems
+10
+Operating systems
+5
+Set theory
+10
+English Lithuanian
+
+Alice
+Note
+2
+5.500000
+2
+Set theory
+7
+Operating systems
+4
+English Lithuanian
+
+Jenny
+de Vito
+2
+7.500000
+4
+Operating systems
+5
+Algebra
+10
+Calculus
+5
+Set theory
+10
+English Lithuanian
+
+Melissa
+de Vito
+1
+8.000000
+3
+Algorithms
+9
+Calculus
+9
+Discrete mathematics
+6
+English Russian Lithuanian
+
+Melissa
+Wood
+3
+7.000000
+4
+Discrete mathematics
+5
+Computer networks
+8
+Physics
+5
+Operating systems
+10
+English French Lithuanian
+
+Wilhelm
+Hudson
+3
+7.500000
+4
+Set theory
+10
+Philosophy
+5
+Physics
+6
+Set theory
+9
+English Russian Spanish Lithuanian
+
+Luke
+Brighthill
+4
+5.000000
+1
+Physics
+5
+English Russian Lithuanian
+
+Victor
+Smith
+1
+5.200000
+5
+Physics
+5
+Algorithms
+4
+Physics
+6
+Operating systems
+3
+Algebra
+8
+English Lithuanian
+
+Robert
+Note
+2
+8.250000
+4
+Discrete mathematics
+6
+Computer networks
+8
+Set theory
+9
+Physics
+10
+English Russian Lithuanian
+
+Jane
+Doe
+1
+8.500000
+4
+Operating systems
+6
+Algebra
+10
+Discrete mathematics
+10
+Physics
+8
+English Lithuanian
+
+Jamie
+Damon
+4
+9.000000
+1
+Computer networks
+9
+English Spanish French Lithuanian
+
+Debora
+Darry
+3
+7.000000
+3
+Set theory
+10
+Operating systems
+5
+Set theory
+6
+English Lithuanian
+
+Eve
+de Vito
+1
+6.666667
+3
+Algorithms
+9
+Physics
+5
+Algorithms
+6
+English French Lithuanian
+
+Sarah
+Brightman
+1
+7.800000
+5
+Algorithms
+8
+Computer networks
+8
+Calculus
+8
+Algebra
+6
+Operating systems
+9
+English Spanish Lithuanian
+
+Victor
+Wood
+3
+8.000000
+2
+Discrete mathematics
+9
+Discrete mathematics
+7
+English Lithuanian
+
+Wilhelm
+Madsen
+3
+8.250000
+4
+Algebra
+8
+Set theory
+10
+Discrete mathematics
+5
+Discrete mathematics
+10
+English French Lithuanian
+
+Sole
+Thornton
+3
+6.500000
+2
+Philosophy
+7
+Calculus
+6
+English Lithuanian
+
+Victor
+Brighthill
+4
+7.000000
+2
+Operating systems
+8
+Discrete mathematics
+6
+English Spanish Lithuanian
+
+Filter applied, 22 students found
