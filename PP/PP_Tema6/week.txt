@@ -1,0 +1,7 @@
+Pirmadienis
+Antradienis
+Treciadienis
+Ketvirtadienis
+Penktadienis
+Sestadienis
+Sekmadienis
