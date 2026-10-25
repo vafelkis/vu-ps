@@ -19,7 +19,7 @@ void rastimin(int skaic[], int n, int *min)
     }
 }
 
-int main(void)
+int main()
 {
     int n, skaic[1000];
 

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #define MAX_ERRORS 5
-int main(void) {
+int main() {
     int errors=0; char filename[256]="in.txt", line[256];
     const RealRange range={10,1000,','};
     const Places places={3,','};

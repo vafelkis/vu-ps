@@ -73,7 +73,7 @@ int remValue(FILE *file, int index) {
 #endif
 }
 
-int main(void) {
+int main() {
     /* Reikia ir skaitymo, ir rasymo teisiu: w+b arba r+b. */
     FILE *file = fopen("numbers.bin", "w+b");
     if (file == NULL) return 1;

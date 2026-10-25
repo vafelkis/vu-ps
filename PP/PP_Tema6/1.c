@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_ERRORS 5
-int main(void) {
+int main() {
     char s[256]; int errors=0;
     const IntRange range={1,20}; /* 20! telpa i unsigned long long */
     const Rule rules[]={{filter_integer_range,&range,"Reikia sveiko teigiamo skaiciaus nuo 1 iki 20 (didesnio faktorialas netilptu)."}};

@@ -9,7 +9,7 @@ void printarr(int arr[], int size)
     printf("\n");
 }
 
-int main(void)
+int main()
 {
     int arr[CAPACITY] = {0};
     int size = CAPACITY;

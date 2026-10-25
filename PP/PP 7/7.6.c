@@ -34,7 +34,7 @@ int showMenu(char *menuTitle, char *menuOptions[], int menuSize, char *inputMsg)
     }
 }
 
-int main(void) {
+int main() {
     char *options[] = {"Pirmas", "Antras", "Baigti"};
     int choice = showMenu("MENIU", options, 3, "Pasirinkite: ");
     printf("Pasirinkote: %d\n", choice);

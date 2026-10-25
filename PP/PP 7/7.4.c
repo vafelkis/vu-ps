@@ -16,7 +16,7 @@ void generateArray(int data[], int size, int low, int high) {
     }
 }
 
-int main(void) {
+int main() {
     int data[10];
     srand((unsigned)time(NULL));
     generateArray(data, 10, 1, 20);

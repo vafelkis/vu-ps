@@ -45,7 +45,7 @@ int findSum(
     return 0;
 }
 
-int main(void)
+int main()
 {
     int arr[MAX_N];
     int chosen[MAX_N] = {0};

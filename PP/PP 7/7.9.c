@@ -6,7 +6,7 @@
 
 /* Papildytas 7.6 meniu: iskviecia pasirinkto punkto funkcija. */
 void showMenu(char *menuTitle, char *menuOptions[], int menuSize,
-              char *inputMsg, void (*actions[])(void)) {
+              char *inputMsg, void (*actions[])()) {
     char line[100], *end;
     long choice;
     if (menuSize < 1 || menuOptions == NULL || actions == NULL) return;
@@ -38,12 +38,12 @@ void showMenu(char *menuTitle, char *menuOptions[], int menuSize,
     }
 }
 
-void hello(void) { puts("Labas!"); }
-void goodbye(void) { puts("Iki!"); }
+void hello() { puts("Labas!"); }
+void goodbye() { puts("Iki!"); }
 
-int main(void) {
+int main() {
     char *options[] = {"Pasisveikinti", "Atsisveikinti"};
-    void (*actions[])(void) = {hello, goodbye};
+    void (*actions[])() = {hello, goodbye};
     showMenu("MENIU", options, 2, "Pasirinkite: ", actions);
     return 0;
 }

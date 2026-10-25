@@ -24,7 +24,7 @@ int getFactorialWithoutRecursion(int number) {
     return result;
 }
 
-int main(void) {
+int main() {
     printf("%d\n", getFactorial(5));
     printf("%d\n", getFactorialWithoutRecursion(5));
     printf("%d\n", getFactorial(13));

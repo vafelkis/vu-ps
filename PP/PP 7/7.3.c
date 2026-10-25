@@ -33,7 +33,7 @@ int getPositiveNumber(char *msg) {
     }
 }
 
-int main(void) {
+int main() {
     int number = getPositiveNumber("Iveskite teigiama skaiciu: ");
     printf("Gauta: %d\n", number);
     return 0;

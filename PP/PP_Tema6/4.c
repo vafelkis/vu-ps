@@ -8,7 +8,7 @@ static int weekday(int y,int m,int d) {
     if(m<3)y--;
     return (y+y/4-y/100+y/400+t[m-1]+d)%7;
 }
-int main(void) {
+int main() {
     char s[256], days[7][128];int errors=0,y,m,d;
     const Rule rules[]={{filter_date,NULL,"Netaisyklinga data. Naudokite YYYY-MM-DD, tikra kalendorine data."}};
     puts("Programa nustato ivestos datos savaites diena pagal week.txt pavadinimus.");

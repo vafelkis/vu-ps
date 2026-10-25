@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #define MAX_ERRORS 5
-int main(void) {
+int main() {
     char s[256];int errors=0;
     const Rule rules[]={{filter_email,NULL,"Reikia vieno @, bent vieno tasko po jo ir netusciu daliu pries @, tarp @ ir tasko, bei po tasko."}};
     puts("Programa tikrina el. pasto adresa, isveda domena ir kaupia teisingus adresus emails.txt.");

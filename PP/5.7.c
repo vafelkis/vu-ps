@@ -54,7 +54,7 @@ void findBestPartition(
     );
 }
 
-int main(void)
+int main()
 {
     int arr[MAX_N];
     int n;

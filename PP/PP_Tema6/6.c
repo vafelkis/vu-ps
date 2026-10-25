@@ -32,7 +32,7 @@ static void process_word(char *word,size_t line,size_t word_no,Dictionary *dict,
         puts("Iveskite 'k' arba 'p':");
     }
 }
-int main(void){
+int main(){
     Dictionary dict={0};char word[MAX_WORD+1],input[256];
     puts("6a/6b: programa tikrina teksto zodzius, klaidas fiksuoja errors.txt, naujus zodzius prideda i dictionary.txt.");
     FILE *d=fopen("dictionary.txt","r");

@@ -16,7 +16,7 @@ int isPrime(int n)
     return 1;
 }
 
-int main(void)
+int main()
 {
     int arr[CAPACITY];
     int size = 0;

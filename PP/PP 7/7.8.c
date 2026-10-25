@@ -53,7 +53,7 @@ void quickSortIterative(int a[], int size) {
     free(stack);
 }
 
-int main(void) {
+int main() {
     int a[] = {9, 4, 1, 7, 3, 3, 8};
     int b[] = {9, 4, 1, 7, 3, 3, 8};
     int size = sizeof(a)/sizeof(a[0]);

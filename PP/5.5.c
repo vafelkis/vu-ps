@@ -41,7 +41,7 @@ int canCreate(long long source, long long number)
     return 1;
 }
 
-int main(void)
+int main()
 {
     long long x;
     long long arr[CAPACITY];

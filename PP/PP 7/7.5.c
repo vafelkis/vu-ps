@@ -14,7 +14,7 @@ long getFileSize(char *fileName) {
     return size;
 }
 
-int main(void) {
+int main() {
     FILE *file = fopen("example.bin", "wb");
     if (file == NULL) return 1;
     int ok = fwrite("Hello", 1, 5, file) == 5;

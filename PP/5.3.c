@@ -2,7 +2,7 @@
 
 #define CAPACITY 1000
 
-int main(void)
+int main()
 {
     int x[CAPACITY];
     int n;

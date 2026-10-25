@@ -1,7 +1,7 @@
 #include "validation.h"
 #include <stdio.h>
 #define MAX_ERRORS 5
-int main(void) {
+int main() {
     int errors=0; char s[256],name[256]; double v[3];
     const Rule numbers[]={{filter_triple,NULL,"Tiksliai 3 skaiciai be tarpu, atskirti kabliataskiais, pvz. -2;3.5;1."}};
     const Rule file_rules[]={{filter_nonempty,NULL,"Failo vardas negali buti tuscias."},{filter_suffix,".txt","Failo vardas privalo baigtis .txt."}};

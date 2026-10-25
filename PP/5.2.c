@@ -4,7 +4,7 @@
 
 #define CAPACITY 1000
 
-int main(void)
+int main()
 {
     int arr[CAPACITY];
     int a, b, c;
